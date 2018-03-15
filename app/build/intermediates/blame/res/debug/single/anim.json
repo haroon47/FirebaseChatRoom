@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

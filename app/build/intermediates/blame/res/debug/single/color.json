@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\7913ff614d8caef4ec91a82c6985acba929bb6ea\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\7913ff614d8caef4ec91a82c6985acba929bb6ea\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\fc7e1836003b104e78022c76f3b1ee54d5c91c8c\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\chat bubble code\\MyChatRoom\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\haroonpc\\.android\\build-cache\\7913ff614d8caef4ec91a82c6985acba929bb6ea\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]
